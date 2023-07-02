@@ -1,0 +1,17 @@
+{
+  "name": "client-node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache",
+  "scripts": {
+    "start": "node index.js",
+    "start_enroll": "enrollUser.js"
+  },
+  "dependencies": {
+    "mqtt": "^4.2.1",
+    "fabric-ca-client": "^1.4.4",
+    "fabric-network": "^1.4.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

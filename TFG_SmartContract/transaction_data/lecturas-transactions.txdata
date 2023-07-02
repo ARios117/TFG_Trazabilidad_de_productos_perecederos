@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "lecturasExists",
+        "transactionLabel": "A test lecturasExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createLecturas",
+        "transactionLabel": "A test createLecturas transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readLecturas",
+        "transactionLabel": "A test readLecturas transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateLecturas",
+        "transactionLabel": "A test updateLecturas transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteLecturas",
+        "transactionLabel": "A test deleteLecturas transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

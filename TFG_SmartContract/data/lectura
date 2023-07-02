@@ -1,0 +1,10 @@
+{
+    "lecturaId":"3",
+    "data":{
+        "tipo_activo":"lectura",
+        "timeStamp":"2022-10-17-00:00:00",
+        "valorLectura":18,
+        "device_id":"2",
+        "tampering": 0
+    }
+}

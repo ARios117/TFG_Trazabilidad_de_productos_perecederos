@@ -1,0 +1,14 @@
+{
+  "ctoTransporteId": "1",
+  "data": {
+    "tipo_activo":"contrato",
+    "proveedor":"Ching-Ao",
+    "comprador":"El chino de la esquina",
+    "transportista":"Maersk",
+    "descripcion":"Contenedor lleno de quincalla y algunas flores",
+    "tMin":10,
+    "tMax":23,
+    "fecha_fin_cto":"2022-10-30",
+    "vigente":true
+  }
+}

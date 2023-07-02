@@ -1,0 +1,7 @@
+{
+    "deviceId":"100",
+    "data":{
+        "tipo_activo":"dispositivo",
+        "contratoTransporteId":"1"
+    }
+}
