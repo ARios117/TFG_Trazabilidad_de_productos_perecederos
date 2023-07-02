@@ -1,1 +1,0 @@
-# TFG_Trazabilidad_de_productos_perecederos
